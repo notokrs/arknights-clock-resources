@@ -143,7 +143,8 @@
 	{
 		"name": "W",
 		"realName": "",
-		"organization": "W, Sarkaz mercenary leader. W's squad, having been involved in Kazdel's lengthy civil war, is infamous for their brutal and efficient combat methods. W clashed with Rhodes Island during the Chernobog incident, but after defecting from Reunion for unknown reasons, signed a strategic cooperation agreement with Rhodes Island after negotiating with Dr. Kal'tsit in person.",
+		"organization": "Babel",
+		"desc": "W, Sarkaz mercenary leader. W's squad, having been involved in Kazdel's lengthy civil war, is infamous for their brutal and efficient combat methods. W clashed with Rhodes Island during the Chernobog incident, but after defecting from Reunion for unknown reasons, signed a strategic cooperation agreement with Rhodes Island after negotiating with Dr. Kal'tsit in person.",
 		"logo": "logo_babel.png",
 		"images": [
 			{
