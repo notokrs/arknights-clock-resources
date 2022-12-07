@@ -1,0 +1,157 @@
+[
+	{
+		"name": "SilverAsh",
+		"realName": "Enciodes Silverash",
+		"organization": "Karlan Trade",
+		"desc": "SilverAsh is a Kjerag warlord, chairman of the Karlan Trade Co., and is current Chief of the Silverash Family. He has unique views on economics, trade, international politics, diplomacy, and strategic planning. He provides strategic support for some Rhodes Island operations. In view of the fact that his true purposes are unknown and he doesn't have the most cooperative attitude, it is advised that we maintain a conservative attitude in order to minimize risks when working with him.",
+		"logo": "logo_karlan.png",
+		"images": [
+			{
+				"file": "silverash_01.png"
+			},
+			{
+				"file": "silverash_02.png"
+			},
+			{
+				"file": "silverash_03.png"
+			}
+		]
+	},
+	{
+		"name": "Amiya",
+		"realName": "",
+		"organization": "Rhodes Island",
+		"desc": "The public face of Rhodes Island and its top executive. Although Amiya appears to be a young and inexperienced girl, she is universally  trusted and highly qualified for her position. Amiya now leads the island in fighting for the future of the Infected and striving to exorcise the dark shadow of Originium from the land.",
+		"logo": "logo_rhodes_island.png",
+		"images": [
+			{
+				"file": "amiya_01.png"
+			},
+			{
+				"file": "amiya_02.png"
+			},
+			{
+				"file": "amiya_03.png"
+			},
+			{
+				"file": "amiya_04.png"
+			},
+			{
+				"file": "amiya_05.png"
+			},
+			{
+				"file": "amiya_06.png"
+			},
+			{
+				"file": "amiya_07.png"
+			}
+		]
+	},
+	{
+		"name": "Ch'en",
+		"realName": "Ch'en Hui-chieh",
+		"organization": "Lungmen Guard Departement",
+		"desc": "Ch'en, head of the Lungmen Guard Department's Special Inspection Unit, graduated from the Royal Victorian Guard School with superb grades and outstanding achievements. During her time with the Department, she cracked down on crime, fought violent offenders, tracked down armed fugitives, and brought down international criminals. Now works at Rhodes Island, providing on-site tactical command.",
+		"logo": "logo_lgd.png",
+		"images": [
+			{
+				"file": "chen_01.png"
+			},
+			{
+				"file": "chen_02.png"
+			},
+			{
+				"file": "chen_03.png"
+			}
+		]
+	},
+	{
+		"name": "Horn",
+		"realName": "Rita Skamandros",
+		"organization": "Victoria",
+		"desc": "Horn, graduate of the Royal Guard Academy of Victoria, presently commander of Victoria's 2nd Tempest Platoon. Fought in coordination with Rhodes Island during the Londinium incident. Ratified a cooperative strategic contract with Rhodes Island following referral by Elite Operator Misery.",
+		"logo": "logo_victoria.png",
+		"images": [
+			{
+				"file": "horn_01.png"
+			},
+			{
+				"file": "horn_02.png"
+			},
+			{
+				"file": "horn_03.png"
+			}
+		]
+	},
+	{
+		"name": "Mostima",
+		"realName": "",
+		"organization": "Victoria",
+		"desc": "An employee of Penguin Logistics who always acts alone. Nothing is known about Mostima's previous work history.",
+		"logo": "logo_laterano.png",
+		"images": [
+			{
+				"file": "mostima_01.png"
+			},
+			{
+				"file": "mostima_02.png"
+			},
+			{
+				"file": "mostima_03.png"
+			}
+		]
+	},
+	{
+		"name": "Irene",
+		"realName": "",
+		"organization": "Victoria",
+		"desc": "Irene, former Iberian Inquisitor and student of High Inquisitor Dario. She is well-versed with Iberia's history, laws, and human geography. After the \"Stultifera Navis\" Incident, she resigned from her position as an Inquisitor, and with Kal'tsit's personal recommendation, she signed a cooperation agreement with Rhodes Island as an Inquisition Messenger to prepare for the threats of the sea.",
+		"logo": "logo_iberia.png",
+		"images": [
+			{
+				"file": "irene_01.png"
+			},
+			{
+				"file": "irene_02.png"
+			}
+		]
+	},
+	{
+		"name": "Pramanix",
+		"realName": "Enya Silverash",
+		"organization": "Karlan Trade",
+		"desc": "Pramanix is a Karlan Saintess born in Kjerag, the leader of the entire religion of her homeland. She uses the holy bell given to her by the gods to summon the power of wind and snow. She came to Rhodes Island by secret means, and the post she holds as well as how long she's held it are both confidential.",
+		"logo": "logo_karlan.png",
+		"images": [
+			{
+				"file": "pramanix_01.png"
+			}
+		]
+	},
+	{
+		"name": "Rosmontis",
+		"realName": "",
+		"organization": "Rhodes Island Elite Operators",
+		"desc": "Rhodes Island Elite Operator Rosmontis possesses a high aptitude for a rare form of Originium Arts particularly adept at confronting large creatures, destroying hard objectives, immobilizing facilities under emergency, and putting a stop to small-scale skirmishes. She has been shown to possess a solid control of the battlefield and considerable tactical value in assault, positional, and annihilation scenarios. Under Kal'tsit's assignment, she is currently active as a core annihilation specialist.",
+		"logo": "logo_rhodes_EO.png",
+		"images": [
+			{
+				"file": "rosmontis_01.png"
+			}
+		]
+	},
+	{
+		"name": "W",
+		"realName": "",
+		"organization": "W, Sarkaz mercenary leader. W's squad, having been involved in Kazdel's lengthy civil war, is infamous for their brutal and efficient combat methods. W clashed with Rhodes Island during the Chernobog incident, but after defecting from Reunion for unknown reasons, signed a strategic cooperation agreement with Rhodes Island after negotiating with Dr. Kal'tsit in person.",
+		"logo": "logo_babel.png",
+		"images": [
+			{
+				"file": "w_01.png"
+			},
+			{
+				"file": "w_02.png"
+			}
+		]
+	}
+]
